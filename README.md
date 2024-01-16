@@ -5,7 +5,7 @@ The purpose of this project is to create user login and registration, to display
 to the city searched, and to provide the opportunity to review the hotel for each hotel.
 
 ## Technologies and Programming Languages Used:
-Python,django,bootstrap.
+Python,django,JavaScript,bootstrap.
 
 ## Requirements:
  - Search capability by City, Dates and Guest count
