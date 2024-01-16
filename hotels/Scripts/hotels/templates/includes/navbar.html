@@ -1,0 +1,16 @@
+<nav class="navbar navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand">Hotels.com</a>
+      <form class="d-flex" style="gap: 50px; align-items: center;">
+        {% if request.user.is_authenticated %}
+        <h5>Hoşgeldiniz, {{request.user.username}}</h5>
+        <button class="btn btn-danger"><a style="color: black; text-decoration: none;" href="/user/logout">Çıkış Yap</a></button>
+
+        {% else %}
+        <button class="btn btn-danger"><a style="color: black; text-decoration: none;" href="/user/login">Giriş Yap</a></button>
+        <button class="btn btn-danger"><a style="color: black; text-decoration: none;" href="/user/register">Kayıt Ol</a></button>
+
+        {% endif %}
+      </form>
+    </div>
+  </nav>
