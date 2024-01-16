@@ -32,6 +32,11 @@ SEARCH RESULTS:
 ## Video:
 https://github.com/gultenguzel/hotels/assets/140374859/d413143f-e893-4b49-917d-502a18e23e20
 
+
+https://github.com/gultenguzel/hotels/assets/140374859/1a9139d4-bbeb-439f-a5ff-0585e156b66f
+
+
+
 ## Data Model:
 ![hotels diagram](https://github.com/gultenguzel/hotels/assets/140374859/e390ae63-3a21-4b8e-8283-8256d7b5c75f)
 
