@@ -1,3 +1,5 @@
+
+https://github.com/gultenguzel/hotels/assets/140374859/2431bb5c-a401-470a-9fbf-f996b3724342
 # HOTELS
 
 ## Goal:
@@ -33,7 +35,11 @@ SEARCH RESULTS:
 https://github.com/gultenguzel/hotels/assets/140374859/d413143f-e893-4b49-917d-502a18e23e20
 
 
- Uploading web Project.mp4…
+ 
+
+https://github.com/gultenguzel/hotels/assets/140374859/10584df3-a52c-47fc-80b9-082b2196a128
+
+
 
 
 
